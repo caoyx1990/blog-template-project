@@ -1,0 +1,84 @@
+body {
+  padding-top: 50px;
+  font-family: "Lucida Grande",Lucida Sans Unicode, Hiragino Sans GB, WenQuanYi Micro Hei,Verdana, Aril, sans-serif;
+  color: #555;
+  -webkit-font-smoothing: antialiased;
+}
+
+.menu-item {
+  padding: 0 10px;
+}
+
+.posts {
+  margin: 10px 30px;
+}
+
+.post-header {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.post-title {
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+.post-meta {
+  margin-top: 10px;
+  font-size: 15px;
+  color: #999;
+}
+
+.post-meta span {
+  padding: 0 3px;
+}
+
+.post-content {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+.post-more {
+  margin: 10px auto;
+  text-align: center;
+  font-size: 18px;
+}
+
+.post-footer {
+  margin-top: 10px;
+  font-size: 15px;
+  color: #999;
+}
+
+.post-footer span {
+  padding: 0 10px;
+}
+
+.footer {
+  margin-top: 10px;
+  padding: 25px 0;
+  color: #999;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-top: 1px solid #e5e5e5;
+}
+
+.post-sidebar {
+  margin: 50px 0;
+  font-size: 16px; 
+}
+
+.sidebar-module {
+  padding: 15px;
+  margin: 0 -15px 15px;
+}
+
+.sidebar-module li {
+  padding: 3px 0;
+}
+
+.sidebar-module p:last-child,
+.sidebar-module ul:last-child,
+.sidebar-module ol:last-child {
+  margin-bottom: 0;
+}
