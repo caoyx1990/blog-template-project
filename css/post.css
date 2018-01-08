@@ -38,10 +38,21 @@ body {
   line-height: 1.5;
 }
 
-.post-more {
-  margin: 10px auto;
-  text-align: center;
+.post-end {
+  margin: 15px auto;
+  text-align: left;
+  color: #555;
   font-size: 18px;
+}
+
+.post-reward {
+  margin: 15px auto;
+  text-align: center;
+}
+
+.post-reward img {
+  max-width: 200px;
+  max-height: 200px;
 }
 
 .post-footer {

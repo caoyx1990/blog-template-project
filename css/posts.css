@@ -9,12 +9,18 @@ body {
   padding: 0 10px;
 }
 
+.post-classic {
+  margin-top: 30px ;
+  font-size: 18px;
+  color: #555;
+  text-align: center;
+}
+
 .posts {
   margin: 10px 30px;
 }
 
 .post-header {
-  padding-top: 20px;
   padding-bottom: 20px;
 }
 
@@ -49,7 +55,7 @@ body {
 }
 
 .post-footer {
-  margin-top: 10px;
+  margin: 10px 0 50px 0;
   font-size: 15px;
   color: #999;
 }
